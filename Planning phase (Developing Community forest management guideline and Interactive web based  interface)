@@ -1,0 +1,129 @@
+## Developing Community forest management guideline and Interactive web based  interface ##
+Team members:- 
+1. Anu Singh, 
+2. Rajeev Kumar Jha and 
+3. Gagandeep Chani
+
+--About platform :- 
+  The idea behind creating this platform is to communicate about forest with people who owns the forest. This platform will help local 
+  communities to take over the responsibility and benefit of the forest in their surrounding. This platform will be built to improve 
+  knowledge of local people regarding forestry practices and management of the forest. For any management of community based forest 
+  local people should have enough understanding about the diversity and composition of the forest. The advance and easy technology 
+  available at this time will support local people to built that knowledge. We want to support the people to create their network 
+  of communities to support each other for the management of community based forest. This platform will address different support 
+  groups with different types of forest, different arrangement of the forest and also to register community based knowledge regarding 
+  the trees and its uses.  We will try to capture the knowledge regarding diversity of forest and communities and look for the options 
+  to monetize the values of forest for the benefit of local people.
+
+--Our role:- 
+  Work to support the community and NGOs working with community to increase their technical expertise 
+
+Initially, we see the 3 major parts of it, as we know the development is continuous process, so there will be changes in content or 
+strategy to fulfill the objective of this initiative. One of our major focus will be to use freely available open source softwares 
+and tool for data collection, management, analysis, presentation, and reporting. 
+
+ 
+
+1.	Data collection:- Developing or mastering in pre-developed tools for data collection, which suited to forestry. Example - Kobo,
+geoodk are good options. Google play store has sth called memento database which is also good. Its easier to make then geoodk as well. 
+
+2.	Data analysis:- Here, we will develop the code for automated analysis. The code script will be sync with our data collection platform
+and will analysis on real time base. On same time it will also generate the some simple pictorial information based on descriptive 
+analysis and more..
+
+a.	As per talk, we have decided to go with R programming.
+b.	To sharpen our knife, we may use one course titled “data scientist toolbox” https://www.coursera.org/learn/data-scientists-tools/lecture/4iftI/building-data-products-overview 
+c.	Other thing for same purpose is using version control system to organise our coding, which is github. Please click on link to see 
+our version control coding interface. 
+d.	I will do initial setup in github to complete of purpose so we can track thing with change.  
+https://github.com/Gagandeepchani/R_Coding_For_Forest_Inventory_Data/blob/Anu_Gagan/Forest-Inventory-Script.R 
+
+3.	Implementation of the project for community work:- So far, I have only idea about the qgis-webmap. It works well. But for future we 
+need to for some alternative or need to do modification according to our own choice.
+We will have some pictorial representation from the 2nd step. 
+
+What next.
+1.	A group meeting to make clarity to each other and to take new inputs. (skype or hangout)
+2.	Planning whole event as an project.
+3.	Proposal writing for getting fund to support our idea.
+4.	Sharpening R skill and developing R codes.
+I am focusing more on 2nd point “Planning whole event as an project”. To complete that I need to do list, where I need your help for
+input.
+A.	To do list for data collection part
+B.	To do list for data analysis
+C.	To do list for presentation of data
+I am also making this and will share with you in meeting (skype or hangout)
+
+
+
+Introduction of Forest Inventory
+
+Forest inventory refers to accounting of trees and their associated characteristics in a predefined area of a forest. 
+
+The population of trees in a forest vary widely in terms of species composition, age, size, site requirements, potential value, longevity
+and growth. Therefore, while designing the forest inventory, we need to pay attention to all these variables. 
+
+Besides, the site characteristics especially the topography, where tree population exist, often dictates sampling protocols making the 
+inventory optimal/suitable only for some portion of the population in question. As a result, we need to look for different sampling 
+intensity or strategy (the combination of the sampling design and associated estimators) between different regions within the population
+(Scott & Gove, 2002).
+
+Objective of forest inventory
+ The main objective of all kind of forest inventory is to make informed decision about the forest.  
+
+However, specific objectives varies according to level of forest inventory: National, management, operational and so on. 
+
+The timber production is still the major focus of most of the forest inventory design (Scott & Gove, 2002)  as of the traditional ones. 
+However, the modern forest inventory designs support a holistic view of forest ecosystems addressing not only timber production but the 
+multiple functions of forests as well as the need to understand the functioning mechanisms of forest ecosystems (Köhl et al. 2006, Köhl 
+& Marco 2016).
+
+Variables to be included in forest inventory
+
+●	Location of forest
+●	Position of trees
+●	Species
+●	DBH
+●	Height
+●	Upper stem diameter
+●	Distance between trees
+●	Bark thickness
+●	Diameter increment
+●	Age
+●	Crown attributes (form, density, and so on)
+●	Stem shape
+●	Quality
+●	Tree sociological position
+●	Regeneration status
+●	Biodiversity variables (important plants, ntfps, wildlife)
+
+Social aspects (for management plan development) especially of determining the objective of forest management and to know about the 
+demand and supply of forest products, socio-economic condition of people, IGA activities for pro-poor and so on. 
+●	Forest food 
+●	Local name of different species in forest and their uses by indigenous group
+Procedures
+1.	Social meeting
+2.	Mapping with delineation of different areas (in my opinion it would be better to map both forest and area where the users of that 
+forest resides in order to know about the situation outside forest)
+3.	Stratification of forest, in needed
+4.	Determination of sampling design, sampling frame, number of sample plots
+5.	Prepare the cruse 
+6.	Field inventory
+7.	Data management
+8.	Data analysis
+9.	Report preparation/management plan preparation
+10.	Endorse the management plan with the users and local authorities
+11.	Approval of management plan
+
+
+References
+Scott, C. T., & Gove, J. H. (2002). Forest Inventory. In Encyclopedia of environmetrics. (pp. 814–820). Chichester: John Wiley & Sons, 
+Ltd. Retrieved from https://www.fs.fed.us/ne/durham/4104/papers/Gove18.pdf
+Köhl, Michael & Magnussen, Steen & Marchetti, Marco. (2006). Tropical Forestry. 10.1007/978-3-540-32572-7.
+
+Köhl, Michael & Marchetti, Marco. (2016). Objectives and Planning of Forest Inventories. Tropical Forestry Handbook, Second Edition. 
+749-776. 10.1007/978-3-642-54601-3_70.
+
+
+
+
