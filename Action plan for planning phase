@@ -1,0 +1,34 @@
+1.Data collection:- 
+  1a. Defining questionairre
+      - Clearing the objective of forest inverntory of community forest 
+      - Defining the objective of socio-economic survery of forest dependent communities, these communities should live inside or near 
+      to forest.
+  1b. Exploring data collection application and platforms best suited for forestry data collection.
+      - Kobo collect (Gagan)
+      - ODK and Geo ODK (Gagan)
+      - Memento database (Rajiv)   
+      ## These are some key skills in data collection applications
+      - Inserting different type of quetions.
+      - Skip logic
+      - Validation
+      - Matrix and so on
+      ## Setting up server for data collection (mandatory for odk and geoodk)
+      - Installing and setting up aggregate server on google cloud
+      - Syncronizing aggregating server with your google cloud server
+      - Data pooling
+(For future)  1b. Developing and making modification according to need in predeveloped application.
+2. Data analysis
+  2a. Data pulling from servers with and without coding
+  2b. Finding the problems exists in data.
+  2c. Intial treatment to data/ data cleaning with and without coding
+  2d. Analysis
+     ## This part is among top priority part and need a good skill so we may register in course in coursera, which we have already discussed.
+  2e. Making pictorial information from textual and numerical information.
+3. Presenation and reporting 
+  3a. Here we may use the point 2e
+  3b. Developing a format for reporting the results
+  3c. Publishing the reports 
+  3d. Publishing webmap with dynamic features and other maps.
+    ## Qgis-webmap is good option for it.
+    ## We need to explore this option to modify it in our own way.
+  
