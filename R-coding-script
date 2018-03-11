@@ -1,0 +1,19 @@
+## Here we try to cover 3 major things 
+#1- Pulling data from different sources
+#2- Data cleaning (we will develop code for small data and try to use same for big data)
+#3- Analysis (Exploratory, infrential and predictive)
+#=============================================================================================#
+# Setting working director
+## to get the current working directory use
+getwd()
+## to set your preferred directory as an working dirctory use 
+setwd('pathname')
+#Reading different type of files 
+#1. CSV -
+#2. Table-
+#3. Jason
+#4. Text deliminated
+#5. Web data
+#6. More suggestion from your side ------
+
+
